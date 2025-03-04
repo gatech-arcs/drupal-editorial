@@ -5,7 +5,6 @@ type: 'Site'
 recipes:
   - blazy
 
-
 install:
   - blazy
   - crop
@@ -20,10 +19,11 @@ install:
 
   - diff
   - diff_plus
+  - node_revision_delete
   - quick_node_clone
   - scheduler
   - trash
-  
+
   - oembed_lazyload
   - oembed_providers
 
