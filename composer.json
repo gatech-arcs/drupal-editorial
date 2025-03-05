@@ -12,7 +12,8 @@
         }
     ],
     "_comment": [
-        "drupal/linkchecker: ^2.1 -- needs full d11 release"
+        "drupal/linkchecker: ^2.1 -- needs full d11 release",
+        "https://www.drupal.org/project/content_planner maybe for editors later"
     ],
 
     "require": {
