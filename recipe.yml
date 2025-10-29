@@ -15,6 +15,7 @@ install:
 
   - linkpurpose
   - editor_advanced_link
+  - fontawesome
   - shortcut
 
   - diff
