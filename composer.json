@@ -1,5 +1,5 @@
 {
-    "name": "gtsciences/gt-editorial",
+    "name": "gtsciences/gt_editorial",
     "description": "Common Editorial, CKE5, and image configurations",
     "type": "drupal-recipe",
     "keywords": ["Drupal recipe", "recipe", "Editor"],
