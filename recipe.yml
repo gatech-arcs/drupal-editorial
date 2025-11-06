@@ -10,13 +10,11 @@ install:
   - crop
   - focal_point
   - imagemagick
-  - responsive_image
   - svg_image
 
   - linkpurpose
   - editor_advanced_link
   - fontawesome
-  - shortcut
 
   - diff
   - diff_plus
