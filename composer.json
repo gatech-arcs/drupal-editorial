@@ -37,6 +37,8 @@
         "drupal/imagemagick":"^4.0",
         "drupal/svg_image":"^3.2",
         "drupal/fontawesome":"^3.0",
+        "drupal/oembed_providers":"^2.2",
+        "drupal/oembed_lazyload":"^2.0",
         "drupal/diff": "^2.0",
         "drupal/diff_plus": "^1.1",
         "drupal/node_revision_delete": "^2.0",
