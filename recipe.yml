@@ -2,9 +2,6 @@ name: 'GT Editorial'
 description: 'Common Editorial, CKE5, and image configurations'
 type: 'Site'
 
-recipes:
-  - blazy
-
 install:
   - blazy
   - crop
