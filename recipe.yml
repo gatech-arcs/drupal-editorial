@@ -11,31 +11,29 @@ install:
   - ckeditor5_paste_filter
   - ckeditor5_plugin_pack
   - ckeditor_responsive_table
+  - ckeditor5_table_fix
 
   - diff
   - diff_plus
 
   - editor_advanced_link
   - editoria11y
+
   - linkchecker
   - linkit
   - linkpurpose
-
+  - markdown_easy
+  - mermaid_diagram_field
   - node_revision_delete
+
+  - oembed_lazyload
+  - oembed_providers
+
   - quick_node_clone
   - scheduler
   - trash
   - typography_filter
   - url_embed
-
-  - oembed_lazyload
-  - oembed_providers
-
-  - blazy
-  - crop
-  - focal_point
-  - imagemagick
-  - svg_image
 
 config:
   strict: false

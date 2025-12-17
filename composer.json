@@ -15,7 +15,8 @@
         "https://www.drupal.org/project/content_planner maybe for editors later",
         "once FA7 hits so not mixing libraries https://www.drupal.org/project/ckeditor5_icons",
         "drupal/fontawesome ^3.0",
-        "Responsive tables info https://www.lullabot.com/articles/responsive-html-tables-presenting-data-accessible-way"
+        "Responsive tables info https://www.lullabot.com/articles/responsive-html-tables-presenting-data-accessible-way",
+        "add back in gtsciences/gt_mediaspace when ready"
     ],
 
     "require": {
@@ -36,11 +37,12 @@
         "drupal/linkit": "^7.0",
         "drupal/linkpurpose": "^1.0",
         "drupal/markdown_easy": "^2.0",
+        "drupal/mermaid_diagram_field": "^1.0",
+        "drupal/node_revision_delete": "^2.0",
 
         "drupal/oembed_providers":"^2.2",
         "drupal/oembed_lazyload":"^2.0",
 
-        "drupal/node_revision_delete": "^2.0",
         "drupal/quick_node_clone": "^1.22",
         "drupal/scheduler": "^2.2",
         "drupal/trash": "^3.0",
